@@ -6,5 +6,5 @@ xianlai-parent 是「闲来 - XianLai」项目群的父构件，为所有子项�
 
 - Java 版本：17
 - Spring Boot 版本：3.2.4
-- 私服 Nexus 构件库 releases 仓库上传地址：须修改\<distribution.releases.url\>标签值
-- 私服 Nexus 构件库 snapshots 仓库上传地址：须修改\<distribution.snapshots.url\>标签值
+- 私服 Nexus 构件库 releases 仓库上传地址：须修改 \<distribution.releases.url\> 标签值
+- 私服 Nexus 构件库 snapshots 仓库上传地址：须修改 \<distribution.snapshots.url\> 标签值
